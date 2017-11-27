@@ -1,0 +1,81 @@
+﻿@model SENAI.FalaAiCidadao.Modelos.Models.Postagem
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_LayoutLogado.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Postagem</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Eleitor.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Eleitor.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Regiao.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Regiao.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tipo.Descicao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tipo.Descicao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TituloPost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TituloPost)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TextoPost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TextoPost)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Data)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Data)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Excluido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Excluido)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

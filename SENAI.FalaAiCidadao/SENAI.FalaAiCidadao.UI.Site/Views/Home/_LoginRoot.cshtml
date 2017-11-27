@@ -1,0 +1,54 @@
+﻿@model SENAI.FalaAiCidadao.UI.Site.ViewModels.LoginViewModel
+@{
+    ViewBag.Title = "LoginRoot";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="card-body">
+    @using (Html.BeginForm("_LoginRoot", "Home", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="col-md-6 mx-auto">
+                            <span class="anchor" id="formLogin"></span>
+                            <!-- form card login -->
+                            <div class="card rounded-0">
+                                <div class="card-header bg-primary">
+                                    <h3 class="mb-0" style="color:white">Login Admin</h3>
+                                </div>
+                                <div class="card-body">
+                                    <div class="form-group">
+                                        @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label", @for = "uname1" })
+                                        @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control form-control-lg rounded-0", @placeholder = "E-mail", @name = "uname1", @id = "uname1" } })
+                                        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                                    </div>
+                                    <div class="form-group">
+                                        @Html.LabelFor(model => model.Senha, htmlAttributes: new { @class = "control-label", @for = "uname2" })
+                                        @Html.EditorFor(model => model.Senha, new { htmlAttributes = new { @class = "form-control form-control-lg rounded-0", @placeholder = "Senha", @name = "uname2", @id = "uname1" } })
+                                        @Html.ValidationMessageFor(model => model.Senha, "", new { @class = "text-danger" })
+                                    </div>
+                                    <span class="text-danger">@ViewBag.Erro</span>
+                                    <input type="submit" value="Logar" class="btn btn-primary btn-lg float-right" />
+                                </div>
+                                <!--/card-block-->
+                            </div>
+                            <span>Ainda não possui cadastro? Cadastre-se <a href="@Url.Action("Create", "Eleitor")">aqui.</a></span>
+                            <!-- /form card login -->
+                        </div>
+                    </div>
+                    <!--/row-->
+                </div>
+                <!--/col-->
+            </div>
+            <!--/row-->
+        </div>
+        <!--/container-->
+    }
+</div>
+<br />
+<div class="text-info">
+    <h3 class="text-center">@TempData["Info"]</h3>
+</div>
+<hr />

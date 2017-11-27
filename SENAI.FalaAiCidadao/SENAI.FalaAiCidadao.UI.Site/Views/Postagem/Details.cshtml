@@ -1,0 +1,111 @@
+﻿@model SENAI.FalaAiCidadao.Modelos.Models.Postagem
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutLogado.cshtml";
+}
+<br />
+<div class="card">
+    <div class="card-header" style="background-color:#118fe2; color:white">
+        <h3 class="text-center">@Model.TituloPost</h3>
+    </div>
+    <div class="card-body" style="background-color:#cecdcd;">
+        <div class="row">
+            @foreach (var imagem in Model.Imagens)
+            {
+                if (Model.Imagens.Count == 1)
+                {
+                    <div class="offset-3">
+                        <img src="~/Imagens/Postagem/@imagem.NomeImagem" class="img-thumbnail" style="width:500px; height:400px" />
+                    </div>
+                }
+                else
+                {
+                    <div class="col-lg-4">
+                        <img src="~/Imagens/Postagem/@imagem.NomeImagem" class="img-thumbnail" style="width:500px; height:400px" />
+                    </div>
+                }
+            }
+        </div>
+        @if ((bool)ViewBag.Eleitor == true)
+        {
+            <a class="float-lg-right btn btn-outline-primary" href="@Url.Action("DeletePost", "Postagem", new { id = Model.PostagemId })" onclick="return confirm('Deseja realmente deletar essa postagem?')">Deletar Postagem</a>
+            <br />
+            <br />
+        }
+        <div class="card-header" style="background-color:#a0d2ea;">
+            <div class="row">
+                <h3 class="col-4" style="font-size:20px">@string.Format(Model.Eleitor.Nome + " " + Model.Eleitor.Sobrenome)</h3>
+                <h3 class="col-4" style="font-size:20px">Data: @Model.Data.ToShortDateString()</h3>
+                <h3 class="col-4" style="font-size:20px">Região: @Model.Regiao.Nome</h3>
+            </div>
+        </div>
+        <div class="card-body" style="background-color:#e5e4e4;">
+            <div class="text-justify">
+                <p style="font-size:20px">@Model.TextoPost</p>
+            </div>
+        </div>
+        <br />
+        @if (Model.Comentaios.Count > 0) //verifica se existe um comentario nesta postagem
+        {
+            <div class="card-header" style="background-color:#a0d2ea;">
+                <div class="row">
+                    <h3 class="col-4" style="font-size:20px">Comentado por: @Model.Comentaios.FirstOrDefault().Politico.Nome</h3>
+                    <h3 class="col-4" style="font-size:20px">Partido: @Model.Comentaios.FirstOrDefault().Politico.Partido</h3>
+                    <h3 class="col-4" style="font-size:20px">Data: @Model.Comentaios.FirstOrDefault().Data.ToShortDateString()</h3>
+                </div>
+            </div>
+            <div class="card-body" style="background-color:#e5e4e4;">
+                <p style="font-size:20px">@Model.Comentaios.FirstOrDefault().TextoComentario</p>
+            </div>
+            <br />
+            if ((bool)ViewBag.Eleitor == true)//true se foi o eleitor q está logado q criou esta postagem
+            {
+                if (@Model.Comentaios.FirstOrDefault().NumeroAvaliacao == 0) //true se ainda nao foi avaliado
+                {
+                    using (Html.BeginForm("SalvarNota", "Postagem", null, FormMethod.Post))//div pra inserir nota
+                    {
+                        @Html.HiddenFor(m => m.PostagemId)//salva o id
+                                                        <label> Insira sua nota:</label>
+                                                        <div class="row">
+                                                            <div class="col-3">
+                                                                @Html.DropDownListFor(p => p.NumAvaliacao, new List<SelectListItem>
+                         {
+                            new SelectListItem() {Text = "1", Value="1"},
+                            new SelectListItem() {Text = "2", Value="2"},
+                            new SelectListItem() {Text = "3", Value="3"},
+                            new SelectListItem() {Text = "4", Value="4"},
+                            new SelectListItem() {Text = "5", Value="5"}
+                         }, "Selecione", new { @class = "form-control" })
+                                                            </div>
+                                                            <div class="col-1">
+                                                                <input type="submit" value="Salvar" class="btn btn-outline-primary" />
+                                                            </div>
+                                                        </div>
+                    }
+                }
+                else //entra se ja foi avaliado
+                {
+                    <center><div style="color:blue; font-size:20px">Avaliado com nota @Model.Comentaios.FirstOrDefault().NumeroAvaliacao</div></center>
+                }
+            }
+            else // entra se nao foi o eleitorque está logado q criou esta postagem
+            {
+                if (@Model.Comentaios.FirstOrDefault().NumeroAvaliacao > 0) //se tiver avaliado mostra o quanto
+                {
+                    <center><div style="color:blue; font-size:20px">Avaliado com nota @Model.Comentaios.FirstOrDefault().NumeroAvaliacao</div></center>
+                }
+                else // se ainda n foi valiado
+                {
+                    <center><div style="color:blue; font-size:20px">Ainda não avaliado. </div></center>
+                }
+            }
+            <hr />
+        }
+        else // entra se ainda n tiver comentario
+        {
+            <p class="text-center" style="color:black; font-size:18px">Esta postagem ainda não foi comentada.</p>
+        }
+    </div>
+</div>
+<br />

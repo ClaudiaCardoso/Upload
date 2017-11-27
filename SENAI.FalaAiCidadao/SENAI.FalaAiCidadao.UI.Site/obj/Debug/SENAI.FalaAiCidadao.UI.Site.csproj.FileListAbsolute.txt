@@ -1,0 +1,704 @@
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.dll.config
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.pdb
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.exe
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.exe.config
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.rsp
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.exe
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.exe.config
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.rsp
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.AppContext.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Console.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.Compression.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Claims.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.ValueTuple.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.exe
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.exe.config
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.rsp
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\VBCSCompiler.exe
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Antlr3.Runtime.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Newtonsoft.Json.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Helpers.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Mvc.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Optimization.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Razor.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\WebGrease.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Antlr3.Runtime.pdb
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Newtonsoft.Json.xml
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Helpers.xml
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Mvc.xml
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Optimization.xml
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Razor.xml
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.xml
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.csprojResolveAssemblyReference.cache
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.pdb
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Data.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Dominio.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Modelos.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Util.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Data.pdb
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Dominio.pdb
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Modelos.pdb
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Util.pdb
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.xml
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.SqlServer.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.SqlServer.xml
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.dll.config
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.pdb
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.exe
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.exe.config
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.rsp
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.exe
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.exe.config
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.rsp
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.AppContext.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Console.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.Compression.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Claims.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.ValueTuple.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.exe
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.exe.config
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.rsp
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\VBCSCompiler.exe
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Antlr3.Runtime.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.SqlServer.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Newtonsoft.Json.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Data.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Dominio.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Modelos.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Util.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Helpers.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Mvc.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Optimization.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Razor.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\WebGrease.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Data.pdb
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Dominio.pdb
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Modelos.pdb
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Util.pdb
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Antlr3.Runtime.pdb
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.xml
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.SqlServer.xml
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Newtonsoft.Json.xml
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Helpers.xml
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Mvc.xml
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Optimization.xml
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Razor.xml
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.xml
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.csprojResolveAssemblyReference.cache
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.pdb
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.dll.config
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.pdb
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.exe
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.exe.config
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.rsp
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.exe
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.exe.config
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.rsp
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.AppContext.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Collections.Immutable.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Console.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.Process.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.Compression.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.Pipes.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Reflection.Metadata.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.AccessControl.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Claims.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Threading.Thread.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.ValueTuple.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XPath.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.exe
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.exe.config
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.rsp
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\VBCSCompiler.exe
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\VBCSCompiler.exe.config
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Antlr3.Runtime.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.SqlServer.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.Web.Infrastructure.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Newtonsoft.Json.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Data.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Dominio.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Modelos.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Util.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Helpers.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Mvc.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Optimization.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Razor.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Deployment.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Razor.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\WebGrease.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Data.pdb
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Dominio.pdb
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Modelos.pdb
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Util.pdb
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Antlr3.Runtime.pdb
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.xml
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.SqlServer.xml
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Newtonsoft.Json.xml
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Helpers.xml
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Mvc.xml
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Optimization.xml
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Razor.xml
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.xml
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Deployment.xml
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Razor.xml
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.csprojResolveAssemblyReference.cache
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.dll
+D:\Usuario\Documents\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.pdb
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.dll.config
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.pdb
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.exe
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.exe.config
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.rsp
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.exe
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.exe.config
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.rsp
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.AppContext.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Console.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.Compression.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Claims.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.ValueTuple.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.exe
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.exe.config
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.rsp
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\VBCSCompiler.exe
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Antlr3.Runtime.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.SqlServer.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Newtonsoft.Json.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Data.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Dominio.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Modelos.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Util.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Helpers.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Mvc.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Optimization.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Razor.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\WebGrease.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Data.pdb
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Dominio.pdb
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Modelos.pdb
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Util.pdb
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Antlr3.Runtime.pdb
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.xml
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.SqlServer.xml
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Newtonsoft.Json.xml
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Helpers.xml
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Mvc.xml
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Optimization.xml
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Razor.xml
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.xml
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.csprojResolveAssemblyReference.cache
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.pdb
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.dll.config
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.pdb
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.exe
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.exe.config
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.rsp
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.exe
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.exe.config
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.rsp
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.AppContext.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Collections.Immutable.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Console.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.Process.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.Compression.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.Pipes.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Reflection.Metadata.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.AccessControl.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Claims.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Principal.Windows.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Threading.Thread.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.ValueTuple.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XmlDocument.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XPath.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.exe
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.exe.config
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.rsp
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\VBCSCompiler.exe
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\VBCSCompiler.exe.config
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Antlr3.Runtime.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.SqlServer.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.Web.Infrastructure.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Newtonsoft.Json.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Data.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Dominio.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Modelos.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Util.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Helpers.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Mvc.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Optimization.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Razor.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Deployment.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Razor.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\WebGrease.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Data.pdb
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Dominio.pdb
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Modelos.pdb
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Util.pdb
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Antlr3.Runtime.pdb
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.xml
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.SqlServer.xml
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Newtonsoft.Json.xml
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Helpers.xml
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Mvc.xml
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Optimization.xml
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Razor.xml
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.xml
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Deployment.xml
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Razor.xml
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.csprojResolveAssemblyReference.cache
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.dll
+E:\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.dll.config
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.exe
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.exe.config
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.rsp
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.exe
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.exe.config
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.rsp
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.AppContext.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Collections.Immutable.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Console.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.Process.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.Compression.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.Pipes.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Reflection.Metadata.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.AccessControl.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Claims.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Threading.Thread.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.ValueTuple.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XPath.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.exe
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.exe.config
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.rsp
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\VBCSCompiler.exe
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\VBCSCompiler.exe.config
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Antlr3.Runtime.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.SqlServer.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.Web.Infrastructure.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Newtonsoft.Json.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Data.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Dominio.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Modelos.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Util.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Helpers.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Mvc.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Optimization.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Razor.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Deployment.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Razor.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\WebGrease.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Data.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Dominio.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Modelos.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Util.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Antlr3.Runtime.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.SqlServer.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Newtonsoft.Json.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Helpers.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Mvc.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Optimization.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Razor.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Deployment.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Razor.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.csprojResolveAssemblyReference.cache
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.pdb
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.dll.config
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.pdb
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.exe
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.exe.config
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.rsp
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.exe
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.exe.config
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.rsp
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.AppContext.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Collections.Immutable.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Console.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.Process.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.Compression.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.Pipes.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Reflection.Metadata.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.AccessControl.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Claims.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Principal.Windows.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Threading.Thread.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.ValueTuple.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XmlDocument.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XPath.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.exe
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.exe.config
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.rsp
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\VBCSCompiler.exe
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\VBCSCompiler.exe.config
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Antlr3.Runtime.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.SqlServer.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.Web.Infrastructure.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Newtonsoft.Json.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Dominio.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Modelos.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Util.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Helpers.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Mvc.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Optimization.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Razor.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Deployment.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Razor.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\WebGrease.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Data.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Dominio.pdb
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Modelos.pdb
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Util.pdb
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Antlr3.Runtime.pdb
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.xml
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.SqlServer.xml
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Newtonsoft.Json.xml
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Helpers.xml
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Mvc.xml
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Optimization.xml
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Razor.xml
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.xml
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Deployment.xml
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Razor.xml
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Data.pdb
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.csprojResolveAssemblyReference.cache
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.dll
+D:\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.dll.config
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.UI.Site.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.exe
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.exe.config
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csc.rsp
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.exe
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.exe.config
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\csi.rsp
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.AppContext.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Console.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.Compression.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Claims.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.ValueTuple.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.exe
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.exe.config
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\vbc.rsp
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\VBCSCompiler.exe
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Antlr3.Runtime.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.SqlServer.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Newtonsoft.Json.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Dominio.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Modelos.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Util.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Helpers.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Mvc.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Optimization.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Razor.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\WebGrease.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Data.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Dominio.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Modelos.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Util.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Antlr3.Runtime.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\EntityFramework.SqlServer.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\Newtonsoft.Json.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Helpers.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Mvc.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Optimization.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.Razor.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\bin\SENAI.FalaAiCidadao.Data.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.UI.Site\obj\Debug\SENAI.FalaAiCidadao.UI.Site.csprojResolveAssemblyReference.cache

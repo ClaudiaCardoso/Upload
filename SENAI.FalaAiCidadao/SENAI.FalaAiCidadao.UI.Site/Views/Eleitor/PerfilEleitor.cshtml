@@ -1,0 +1,164 @@
+﻿@model SENAI.FalaAiCidadao.Modelos.Models.Eleitor
+@{
+    ViewBag.Title = "PerfilEleitor";
+    Layout = "~/Views/Shared/_LayoutLogado.cshtml";
+}
+<div style="border-radius:8px">
+    <div class="card img-fluid" style="background-image:url(../../ImagensLayout/folder.jpg);margin-top:2px; padding:2px;border-color: #0094ff;border-style: solid;border-width:1px; ">
+        <div class="row">
+            <div class="col-lg-2">
+                <img src="~/Imagens/Eleitor/@Model.Foto" class="img-thumbnail" style="width:150px; height:150px; margin-top:150px" />
+            </div>
+            <div class="col-lg-3">
+                <h3 class="" style="vertical-align:text-bottom;color:white; margin-top:250px;font-size:30px">@Model.Nome @Model.Sobrenome</h3>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <span class="col-lg-2 offset-8 btn"><a href="@Url.Action("Edit", "Eleitor", new { id = Model.EleitorId })">Editar Perfil</a></span>
+        @* retirado do site =>  https://stackoverflow.com/questions/4682107/delete-actionlink-with-confirm-dialog*@
+        <span class="col-lg-2 btn" onclick="return confirm('Deseja realmente desativar esta conta?');"><a href="@Url.Action("DesativarEleitor", "Eleitor", new { id = Model.EleitorId })">Desativar Conta</a></span>
+    </div>
+    <div class="row">
+        <div class="col-lg-12"><h4>Informações Pessoais:</h4></div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-lg-3">
+            @Html.LabelFor(m => m.CPF, new { @class = "text-info" }) @Model.CPF
+        </div>
+        <div class="col-lg-3">
+            @Html.LabelFor(m => m.TituloEleitor, new { @class = "text-info" }) @Model.TituloEleitor
+        </div>
+        <div class="col-lg-3">
+            @Html.LabelFor(m => m.DataNascimento, new { @class = "text-info" }) @Model.DataNascimento.ToShortDateString()
+        </div>
+        <div class="col-lg-3">
+            @Html.LabelFor(m => m.Email, new { @class = "text-info" }) @Model.Email
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-lg-12"><h4>Endereço:</h4></div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-lg-6">
+            @Html.LabelFor(m => m.Endereco.First().Logradouro, new { @class = "text-info" }) @Model.Endereco.First().Logradouro
+        </div>
+        <div class="col-lg-3">
+            @Html.LabelFor(m => m.Endereco.First().Numero, new { @class = "text-info" }) @Model.Endereco.First().Numero
+        </div>
+        <div class="col-lg-3">
+            @Html.LabelFor(m => m.Endereco.First().Complemento, new { @class = "text-info" }) @Model.Endereco.First().Complemento
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-3">
+            @Html.LabelFor(m => m.Endereco.First().Bairro, new { @class = "text-info" }) @Model.Endereco.First().Bairro
+        </div>
+        <div class="col-lg-3">
+            @Html.LabelFor(m => m.Endereco.First().Cidade, new { @class = "text-info" }) @Model.Endereco.First().Cidade
+        </div>
+        <div class="col-lg-3">
+            @Html.LabelFor(m => m.Endereco.First().Estado, new { @class = "text-info" }) @Model.Endereco.First().Estado
+        </div>
+        <div class="col-lg-3">
+            @Html.LabelFor(m => m.Endereco.First().Cep, new { @class = "text-info" }) @Model.Endereco.First().Cep
+        </div>
+    </div>
+    <hr />
+    <br />
+    <div class="row">
+        <div class="col-lg-12">
+            <h4>Postagens:</h4>
+            <a href="@Url.Action("Create", "Postagem")" class="btn btn-outline-primary">Criar Nova Postagem</a>
+        </div>
+    </div>
+</div>
+<hr />
+<div class="card">
+    @if (@Model.Postagens.Count > 0)
+    {
+        foreach (var item in Model.Postagens.OrderByDescending(m => m.Data))
+        {
+            if (item.Comentaios.Count == 0)
+            {
+                <a href="@Url.Action("Details", "Postagem", new { id = item.PostagemId })">
+                    <div class="card-body" style="border-radius:3px; border-color:#84c1e9 !important; border:groove">
+                        <div class="card" style="background-color:#0094ff; color:#ffffff">
+                            <div class="row">
+                                <div class="col-lg-1">
+                                    <img src="~/Imagens/Eleitor/@item.Eleitor.Foto" style="width:100px" class="col-xs-2 card-img" />
+                                </div>
+                                <div class="col-lg-2 offset-1">
+                                    <br />
+                                    <p style="font-size:18px ">
+                                        @string.Format(item.Eleitor.Nome + " " + item.Eleitor.Sobrenome) <br />
+                                        @item.Data.ToShortDateString()
+                                    </p>
+                                </div>
+                                <div class="col-lg-3">
+                                    <br />
+                                    <p style="font-size:18px">
+                                        <u>
+                                            @item.TituloPost.ToString().Substring(0, item.TituloPost.Length < 25 ? item.TituloPost.Length : 25) <br />
+                                            @item.Regiao.Nome
+                                        </u>
+                                    </p>
+                                </div>
+                                <div class="col-lg-5">
+                                    @foreach (var imagem in item.Imagens)
+                                    {
+                                        <img src="~/Imagens/Postagem/@imagem.NomeImagem" class="img-thumbnail" style="width:100px; height:100px" />
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            }
+            else
+            {
+                <a href="@Url.Action("Details", "Postagem", new { id = item.PostagemId })">
+                    <div class="card-body" style="border-radius:3px; border-color:#0aaa17 !important; border:groove">
+                        <div class="card" style="background-color:#0094ff; color:#ffffff">
+                            <div class="row">
+                                <div class="col-lg-1">
+                                    <img src="~/Imagens/Eleitor/@item.Eleitor.Foto" style="width:100px" class="col-xs-2 card-img" />
+                                </div>
+                                <div class="col-lg-2 offset-1">
+                                    <br />
+                                    <p style="font-size:18px ">
+                                        @string.Format(item.Eleitor.Nome + " " + item.Eleitor.Sobrenome) <br />
+                                        @item.Data.ToShortDateString()
+                                    </p>
+                                </div>
+                                <div class="col-lg-3">
+                                    <br />
+                                    <p style="font-size:18px">
+                                        <u>
+                                            @item.TituloPost.ToString().Substring(0, item.TituloPost.Length < 25 ? item.TituloPost.Length : 25) <br />
+                                            @item.Regiao.Nome
+                                        </u>
+                                    </p>
+                                </div>
+                                <div class="col-lg-5">
+                                    @foreach (var imagem in item.Imagens)
+                                    {
+                                        <img src="~/Imagens/Postagem/@imagem.NomeImagem" class="img-thumbnail" style="width:100px; height:100px" />
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            }
+            <hr />
+        }
+    }
+    else
+    {
+        <p class="text-info offset-1">Este eleitor ainda não criou uma postagem.</p>
+    }
+</div>

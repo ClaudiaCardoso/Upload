@@ -1,0 +1,69 @@
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\TestesUnitarios.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\TestesUnitarios.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.Dominio.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.Modelos.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.Data.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.Util.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\EntityFramework.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.Dominio.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.Modelos.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.Data.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.Util.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\EntityFramework.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\obj\Debug\TestesUnitarios.csprojResolveAssemblyReference.cache
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\obj\Debug\TestesUnitarios.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\obj\Debug\TestesUnitarios.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\TestesUnitarios.dll.config
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\EntityFramework.SqlServer.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\EntityFramework.SqlServer.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.UI.Site.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.Optimization.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.Mvc.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.Razor.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.WebPages.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.UI.Site.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.Optimization.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.Mvc.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.Razor.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.WebPages.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\TestesUnitarios.dll.config
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\TestesUnitarios.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\TestesUnitarios.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\EntityFramework.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.Data.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.Dominio.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.Modelos.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.UI.Site.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.Util.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.Optimization.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.Mvc.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.Razor.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.WebPages.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.Data.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.Dominio.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.Modelos.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.UI.Site.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\SENAI.FalaAiCidadao.Util.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\EntityFramework.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.Optimization.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.Mvc.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.Razor.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.WebPages.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\obj\Debug\TestesUnitarios.csprojResolveAssemblyReference.cache
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\obj\Debug\TestesUnitarios.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\TestesUnitarios\obj\Debug\TestesUnitarios.pdb

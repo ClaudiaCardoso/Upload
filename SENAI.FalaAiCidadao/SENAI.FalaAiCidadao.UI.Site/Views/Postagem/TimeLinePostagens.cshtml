@@ -1,0 +1,90 @@
+﻿@model IEnumerable<SENAI.FalaAiCidadao.Modelos.Models.Postagem>
+
+@{
+    ViewBag.Title = "TimeLinePostagens";
+    Layout = "~/Views/Shared/_LayoutLogado.cshtml";
+}
+<br />
+<h2 class="card-title">Postagens</h2>
+<a class="btn btn-outline-primary" href="@Url.Action("Create","Postagem")">Criar Nova Postagem</a>
+<br />
+<br />
+<div>
+    @foreach (var item in Model)
+    {
+        if (item.Comentaios.Count == 0)
+        {
+            <a href="@Url.Action("Details", "Postagem", new { id = item.PostagemId })">
+                <div class="card-body" style="border-radius:3px; border-color:#84c1e9 !important; border:groove">
+                    <div class="card" style="background-color:#0094ff; color:#ffffff">
+                        <div class="row">
+                            <div class="col-lg-1">
+                                <img src="~/Imagens/Eleitor/@item.Eleitor.Foto" style="width:100px" class="col-xs-2 card-img" />
+                            </div>
+                            <div class="col-lg-2 offset-1">
+                                <br />
+                                <p style="font-size:18px ">
+                                    @string.Format(item.Eleitor.Nome + " " + item.Eleitor.Sobrenome) <br />
+                                    @item.Data.ToShortDateString()
+                                </p>
+                            </div>
+                            <div class="col-lg-3">
+                                <br />
+                                <p style="font-size:18px">
+                                    <u>
+                                        @*Quebro o titulo pra q fique menor q 25 caracteres, se for menor q 25 mostra tudo*@
+                                        @item.TituloPost.ToString().Substring(0, item.TituloPost.Length < 25 ? item.TituloPost.Length : 25) <br />
+                                        @item.Regiao.Nome
+                                    </u>
+                                </p>
+                            </div>
+                            <div class="col-lg-5">
+                                @foreach (var imagem in item.Imagens)
+                                {
+                                    <img src="~/Imagens/Postagem/@imagem.NomeImagem" class="img-thumbnail" style="width:100px; height:100px" />
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        }
+        else
+        {
+            <a href="@Url.Action("Details", "Postagem", new { id = item.PostagemId })">
+                <div class="card-body" style="border-radius:3px; border-color:#0aaa17 !important; border:groove">
+                    <div class="card" style="background-color:#0094ff; color:#ffffff">
+                        <div class="row">
+                            <div class="col-lg-1">
+                                <img src="~/Imagens/Eleitor/@item.Eleitor.Foto" style="width:100px" class="col-xs-2 card-img" />
+                            </div>
+                            <div class="col-lg-2 offset-1">
+                                <br />
+                                <p style="font-size:18px ">
+                                    @string.Format(item.Eleitor.Nome + " " + item.Eleitor.Sobrenome) <br />
+                                    @item.Data.ToShortDateString()
+                                </p>
+                            </div>
+                            <div class="col-lg-3">
+                                <br />
+                                <p style="font-size:18px">
+                                    <u>
+                                        @item.TituloPost.ToString().Substring(0, item.TituloPost.Length < 25 ? item.TituloPost.Length : 25) <br />
+                                        @item.Regiao.Nome
+                                    </u>
+                                </p>
+                            </div>
+                            <div class="col-lg-5">
+                                @foreach (var imagem in item.Imagens)
+                                {
+                                    <img src="~/Imagens/Postagem/@imagem.NomeImagem" class="img-thumbnail" style="width:100px; height:100px" />
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        }
+        <hr>
+    }
+</div>

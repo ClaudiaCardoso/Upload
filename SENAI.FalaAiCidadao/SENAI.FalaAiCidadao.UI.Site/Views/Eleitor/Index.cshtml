@@ -1,0 +1,90 @@
+﻿@model IEnumerable<SENAI.FalaAiCidadao.Modelos.Models.Eleitor>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutLogado.cshtml";
+}
+
+<table class="table">
+    <tr>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Foto)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sobrenome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CPF)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataNascimento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TituloEleitor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ativo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Excluido)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+
+        <td>
+            <img src="~/Imagens/Eleitor/@item.Foto" style="width:100px; height:100px"/>
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Sobrenome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CPF)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DataNascimento)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TituloEleitor)
+        </td>
+        <td>
+            @if (item.Ativo == true)
+            {
+                <label>Sim</label>
+            }
+            else
+            {
+                <label>Não</label>
+            }
+        </td>
+        <td>
+            @if (item.Excluido == true)
+            {
+                <label>Sim</label>
+            }
+            else
+            {
+                <label>Não</label>
+            }
+        </td>
+        <td>
+            @Html.ActionLink("Delete", "Delete", new { id=item.EleitorId })
+        </td>
+    </tr>
+}
+</table>

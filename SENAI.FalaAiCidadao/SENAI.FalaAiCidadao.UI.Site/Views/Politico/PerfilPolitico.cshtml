@@ -1,0 +1,120 @@
+﻿@model SENAI.FalaAiCidadao.Modelos.Models.Politico
+
+@{
+    ViewBag.Title = "PerfilPolitico";
+    Layout = "~/Views/Shared/_LayoutPolitico.cshtml";
+}
+<div style="border-radius:8px">
+    <div class="card img-fluid" style="background-image:url(../../ImagensLayout/folder.jpg);margin-top:2px; padding:2px;border-color: #0094ff;border-style: solid;border-width:1px; ">
+        <div class="row">
+            <div class="col-lg-2">
+                <img src="~/Imagens/Politico/@Model.Foto" class="img-thumbnail" style="width:150px; height:150px; margin-top:150px" />
+            </div>
+            <div class="col-lg-3">
+                <h3 class="" style="vertical-align:text-bottom;color:white; margin-top:250px;font-size:30px">@Model.Nome @Model.Partido</h3>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12"><h4>Informações Pessoais:</h4></div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-lg-3">
+            @Html.LabelFor(m => m.CPF, new { @class = "text-info" }) @Model.CPF
+        </div>
+        <div class="col-lg-3">
+            @Html.LabelFor(m => m.DataNascimento, new { @class = "text-info" }) @Model.DataNascimento.ToShortDateString()
+        </div>
+        <div class="col-lg-3">
+            @Html.LabelFor(m => m.Email, new { @class = "text-info" }) @Model.Email
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-lg-12"><h4>Postagens:</h4></div>
+    </div>
+    @if (Model.Comentarios.Count > 0)
+    {
+        foreach (var item in Model.Comentarios)
+        {
+            if (item.Postagem.Comentaios.Count == 0)
+            {
+                <a href="@Url.Action("DetailsPolitico", "Postagem", new { id = item.PostagemId })">
+                    <div class="card-body" style="border-radius:3px; border-color:#84c1e9 !important; border:groove">
+                        <div class="card" style="background-color:#0094ff; color:#ffffff">
+                            <div class="row">
+                                <div class="col-lg-1">
+                                    <img src="~/Imagens/Eleitor/@item.Postagem.Eleitor.Foto" style="width:100px" class="col-xs-2 card-img" />
+                                </div>
+                                <div class="col-lg-2 offset-1">
+                                    <br />
+                                    <p style="font-size:18px ">
+                                        @string.Format(item.Postagem.Eleitor.Nome + " " + item.Postagem.Eleitor.Sobrenome) <br />
+                                        @item.Data.ToShortDateString()
+                                    </p>
+                                </div>
+                                <div class="col-lg-3">
+                                    <br />
+                                    <p style="font-size:18px">
+                                        <u>
+                                            @item.Postagem.TituloPost.ToString().Substring(0, item.Postagem.TituloPost.Length < 25 ? item.Postagem.TituloPost.Length : 25) <br />
+                                            @item.Postagem.Regiao.Nome
+                                        </u>
+                                    </p>
+                                </div>
+                                <div class="col-lg-5">
+                                    @foreach (var imagem in item.Postagem.Imagens)
+                                    {
+                                        <img src="~/Imagens/Postagem/@imagem.NomeImagem" class="img-thumbnail" style="width:100px; height:100px" />
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            }
+            else
+            {
+                <a href="@Url.Action("DetailsPolitico", "Postagem", new { id = item.PostagemId })">
+                    <div class="card-body" style="border-radius:3px; border-color:#0aaa17 !important; border:groove">
+                        <div class="card" style="background-color:#0094ff; color:#ffffff">
+                            <div class="row">
+                                <div class="col-lg-1">
+                                    <img src="~/Imagens/Eleitor/@item.Postagem.Eleitor.Foto" style="width:100px" class="col-xs-2 card-img" />
+                                </div>
+                                <div class="col-lg-2 offset-1">
+                                    <br />
+                                    <p style="font-size:18px ">
+                                        @string.Format(item.Postagem.Eleitor.Nome + " " + item.Postagem.Eleitor.Sobrenome) <br />
+                                        @item.Data.ToShortDateString()
+                                    </p>
+                                </div>
+                                <div class="col-lg-3">
+                                    <br />
+                                    <p style="font-size:18px">
+                                        <u>
+                                            @item.Postagem.TituloPost.ToString().Substring(0, item.Postagem.TituloPost.Length < 25 ? item.Postagem.TituloPost.Length : 25) <br />
+                                            @item.Postagem.Regiao.Nome
+                                        </u>
+                                    </p>
+                                </div>
+                                <div class="col-lg-5">
+                                    @foreach (var imagem in item.Postagem.Imagens)
+                                    {
+                                        <img src="~/Imagens/Postagem/@imagem.NomeImagem" class="img-thumbnail" style="width:100px; height:100px" />
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            }
+            <hr />
+        }
+    }
+    else
+    {
+        <p class="text-info offset-1">Este político ainda não comentou uma postagem.</p>
+    }
+</div>

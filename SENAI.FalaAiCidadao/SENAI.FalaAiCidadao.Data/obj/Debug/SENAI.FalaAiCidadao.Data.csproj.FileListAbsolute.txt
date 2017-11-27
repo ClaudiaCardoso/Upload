@@ -1,0 +1,85 @@
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.dll.config
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.dll
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.pdb
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.dll
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Modelos.dll
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Modelos.pdb
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.xml
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.csprojResolveAssemblyReference.cache
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.csproj.CoreCompileInputs.cache
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.dll
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.pdb
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.dll.config
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.dll
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.pdb
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.dll
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Modelos.dll
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Modelos.pdb
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.xml
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.csprojResolveAssemblyReference.cache
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.dll
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.pdb
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.dll.config
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.pdb
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Modelos.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Modelos.pdb
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.xml
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.csprojResolveAssemblyReference.cache
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.pdb
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.dll.config
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.pdb
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Modelos.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Modelos.pdb
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.xml
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.csprojResolveAssemblyReference.cache
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.pdb
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.dll.config
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.pdb
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Modelos.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Modelos.pdb
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.xml
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.csprojResolveAssemblyReference.cache
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.dll.config
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Modelos.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Modelos.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.csprojResolveAssemblyReference.cache
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.dll.config
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Data.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Modelos.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\SENAI.FalaAiCidadao.Modelos.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.csprojResolveAssemblyReference.cache
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Data\obj\Debug\SENAI.FalaAiCidadao.Data.pdb

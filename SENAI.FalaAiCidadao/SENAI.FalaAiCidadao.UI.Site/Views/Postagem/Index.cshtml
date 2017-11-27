@@ -1,0 +1,68 @@
+﻿@model IEnumerable<SENAI.FalaAiCidadao.Modelos.Models.Postagem>
+
+<p>
+    ADMIN
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Eleitor.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Regiao.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tipo.Descicao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TituloPost)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TextoPost)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Data)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Excluido)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Eleitor.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Regiao.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tipo.Descicao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TituloPost)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TextoPost)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Data)
+        </td>
+        <td>
+            @if (item.Excluido == true)
+            {
+                <label>Sim</label>
+            }
+            else
+            {
+                <label>Não</label>
+            }
+        </td>
+        <td>
+            @Html.ActionLink("Excluir", "ExcluirPostagem", new { id=item.PostagemId })
+        </td>
+    </tr>
+}
+
+</table>

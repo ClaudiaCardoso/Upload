@@ -1,0 +1,57 @@
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.dll.config
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.dll
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.pdb
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Modelos.dll
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Modelos.pdb
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.csprojResolveAssemblyReference.cache
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.csproj.CoreCompileInputs.cache
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.dll
+C:\Users\Everson\source\repos\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.pdb
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.dll.config
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.dll
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.pdb
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Modelos.dll
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Modelos.pdb
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.csprojResolveAssemblyReference.cache
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.dll
+D:\Usuario\Documents\Git Repositorios\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.pdb
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.dll.config
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.pdb
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Modelos.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Modelos.pdb
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.csprojResolveAssemblyReference.cache
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.dll
+C:\Users\Everson\Documents\Git Repositories\FalaAiCidadao\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.pdb
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.dll.config
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.pdb
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Modelos.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Modelos.pdb
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.csprojResolveAssemblyReference.cache
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.dll
+C:\Users\Everson\Desktop\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.pdb
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.dll.config
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.pdb
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Modelos.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Modelos.pdb
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.csprojResolveAssemblyReference.cache
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.dll
+C:\Users\Everson\Desktop\Lovis\FalaAiCidadao2\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.dll.config
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Modelos.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Modelos.pdb
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.csprojResolveAssemblyReference.cache
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.dll
+D:\Usuario\Desktop\fala ai, cidadão\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.dll.config
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Util.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Modelos.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\bin\Debug\SENAI.FalaAiCidadao.Modelos.pdb
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.csprojResolveAssemblyReference.cache
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.dll
+C:\Users\Everson\Desktop\Falaai FX\SENAI.FalaAiCidadao\SENAI.FalaAiCidadao.Util\obj\Debug\SENAI.FalaAiCidadao.Util.pdb

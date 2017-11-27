@@ -1,0 +1,81 @@
+﻿@model IEnumerable<SENAI.FalaAiCidadao.Modelos.Models.Politico>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutLogado.cshtml";
+}
+<br />
+<h3>Politicos:</h3>
+<br />
+<a href="@Url.Action("Create", "Politico")" class="btn btn-outline-primary">Novo Político</a>
+<br />
+<br />
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Foto)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CPF)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Partido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataCadastro)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataNascimento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ativo)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            <img src="~/Imagens/Politico/@item.Foto" class="img-thumbnail" style="width:100px; height:100px"/>
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CPF)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Partido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DataCadastro)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DataNascimento)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @if(item.Ativo == true)
+            {
+                <label>Sim</label>
+            }
+            else
+            {
+                <label>Não</label>
+            }
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.PoliticoId }) |
+            <span class="col-lg-2" onclick="return confirm('Deseja realmente desativar este político?');"><a href="@Url.Action("DesativarPolitico", "Politico", new { id = item.PoliticoId })">Desativar</a></span>
+            @*@Html.ActionLink("Desativar", "DesativarPolitico", new { id=item.PoliticoId })*@
+        </td>
+    </tr>
+}
+</table>

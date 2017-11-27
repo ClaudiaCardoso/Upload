@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Index - Admin";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br />
+<h2>Admin Serviços</h2>
+<br />
+<div class="row">
+    <div class="col-4">
+        <div><a href="@Url.Action("Index", "Politico")" class="btn btn-outline-primary">Gerenciar Politicos</a></div>
+    </div>
+    <div class="col-4">
+        <div><a href="@Url.Action("Index", "Eleitor")" class="btn btn-outline-primary">Gerenciar Eleitores</a></div>
+    </div>
+    <div class="col-4">
+        <div><a href="@Url.Action("Index", "Postagem")" class="btn btn-outline-primary">Gerenciar Postagens</a></div>
+    </div>
+</div>
+
